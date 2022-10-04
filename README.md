@@ -25,8 +25,11 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![image](twitterp2.gif)
 
+Some challenges I ran into:
+  My constraints messed up somewhere as I was implementing the retweet and like buttons
 
 # Twitter - Part I
 
